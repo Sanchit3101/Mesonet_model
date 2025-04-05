@@ -1,0 +1,4 @@
+tensorflow==2.12.0
+absl-py==1.4.0
+pillow==9.5.0
+# Removed numpy version so pip can install the compatible one
